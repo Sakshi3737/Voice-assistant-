@@ -19,7 +19,7 @@ The assistant can execute basic commands like opening websites, launching applic
 ⚙️ Installation
 1. Clone the repository:
        Bash
-       git clone https://github.com/your-username/voice-assistant.git
+       git clone https://github.com/Sakshi3737/voice-assistant.git
 
 2. Navigate to the project folder:
        Bash
